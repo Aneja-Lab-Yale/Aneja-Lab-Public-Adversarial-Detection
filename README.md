@@ -1,5 +1,9 @@
 # Aneja-Lab-Public-Adversarial-Detection
 
+Code accompanying the paper: Comparing Detection Schemes for Adversarial Images against Deep Learning Models for Cancer Imaging. Cancers (Basel). 2023 Mar 1;15(5):1548. https://www.mdpi.com/2072-6694/15/5/1548
+
+![image](https://user-images.githubusercontent.com/64549018/229181415-6c13bb31-5e04-464c-85bf-8ef698c8628b.png)
+
 In this project, we will investigate the robustness of adversarial image detection models by testing their performance on adversarial examples from various medical imaging datasets. 
 
 # Code Flow
